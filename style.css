@@ -1,0 +1,52 @@
+body{
+    background-color: aqua;
+    background-image: url(2151151929.jpg);
+    background-repeat: no-repeat;
+    
+}
+    #title{
+        text-align: center;
+        text-shadow: 5px 5px 10px white;
+        font-size: 7vh;
+    }
+    img{
+        display: inline-block;
+        
+        width: 15vw;
+        height: 30vh;
+    }
+   
+
+
+    
+    div#tribute-data{
+        background-color: rgb(46,139 ,87,0.25);
+        box-shadow: 20px 20px 20px #98fb98;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 25px 25px;
+        margin: 11px;
+        margin-top: 50px;
+    }
+    h1.title-APJ{
+        font-size: 35px;
+        color: white;
+        text-align: center;
+        text-shadow: 5px 5px 10px black;
+
+    }
+    #tribute-link{
+        text-decoration: none;
+        color: black;
+    }
+    h1{
+        text-align: center;
+        color: bisque;
+    }
+    footer{
+        color: azure;
+    }
+
+    #tri
+    {
+        color: rgb(245, 130, 0);
+    }
